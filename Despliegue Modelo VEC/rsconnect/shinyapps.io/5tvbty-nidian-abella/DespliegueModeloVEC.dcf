@@ -1,0 +1,13 @@
+name: DespliegueModeloVEC
+title: DespliegueModeloVEC
+username:
+account: 5tvbty-nidian-abella
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9116598
+bundleId: 7255262
+url: https://5tvbty-nidian-abella.shinyapps.io/DespliegueModeloVEC/
+when: 1684892440.87803
+lastSyncTime: 1684892440.87805
+asMultiple: FALSE
+asStatic: FALSE
