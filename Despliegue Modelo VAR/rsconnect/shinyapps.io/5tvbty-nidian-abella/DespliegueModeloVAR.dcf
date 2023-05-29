@@ -1,0 +1,13 @@
+name: DespliegueModeloVAR
+title: DespliegueModeloVAR
+username:
+account: 5tvbty-nidian-abella
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9116529
+bundleId: 7222510
+url: https://5tvbty-nidian-abella.shinyapps.io/DespliegueModeloVAR/
+when: 1684202207.55445
+lastSyncTime: 1684202207.55446
+asMultiple: FALSE
+asStatic: FALSE
